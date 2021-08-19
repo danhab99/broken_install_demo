@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@windmill/react-ui": "^0.6.0"
+  }
+}

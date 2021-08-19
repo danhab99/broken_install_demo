@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@windmill/react-ui": "github:danhab99/windmill-react-ui"
+  }
+}
